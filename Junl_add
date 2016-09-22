@@ -1,1 +1,4 @@
-/*---------自己新增一些笔记--------------*/
+/*---------搭建linux虚拟机--------------*/
+在ijkplayer视频播放三方库中为了适配android targetSDK23,需要重新编译ffmpeg文件,
+  1、在windows平台下，使用linux命令进行源码编译，通常用的工具arm linux gcc   tar
+  2、直接y用centos/ubuntu搭建linux虚拟机
