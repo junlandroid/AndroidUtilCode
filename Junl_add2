@@ -8,4 +8,4 @@
   1、android:divider="#cc119911"分割线颜色
   2、android:dividerHeight="1dp"分割线宽度
   3、ptr:ptrMode="both"  同时支持下拉刷新 上拉加载
-  
+  4、<include layout="@layout/pulltorefreshlistview"/>  引用公共布局
