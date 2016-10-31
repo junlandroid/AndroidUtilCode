@@ -1,0 +1,11 @@
+/*--------------------------------一些细节总结----------------------------------*/  
+
+一、textview控件的属性
+  1、android:text设置显示文本； android:textAppearance="?android:attr/textAppearanceMedium" /> 
+      这里引用的是系统自带的一个外观，?表示系统是否有这种外观，否则使用默认的外观
+      
+二、com.handmark.pulltorefresh.library.PullToRefreshListView/listview 一些常用属性
+  1、android:divider="#cc119911"分割线颜色
+  2、android:dividerHeight="1dp"分割线宽度
+  3、ptr:ptrMode="both"  同时支持下拉刷新 上拉加载
+  
